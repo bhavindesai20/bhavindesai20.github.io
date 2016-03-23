@@ -1,4 +1,4 @@
-var app = angular.module('goblog', []);
+var app = angular.module('profile', []);
 
 app.controller('MainCtrl', ['$scope',
     function($scope){
